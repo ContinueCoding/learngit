@@ -5,3 +5,4 @@ Git has a mutable index called stage.
 Git tracks and manages changes not files!
 Execute git add command!
 Create a new branch is quick and simple!
+Test merge with no fast forward mode!
