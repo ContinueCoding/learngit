@@ -12,3 +12,5 @@ Changed something in dev branch,but now there is a bug need to fix!Now the bug i
 重新学习git开始，add & commit & push命令学习
 
 在dev分支上添加本行文案
+
+在dev分支添加第二行文案
