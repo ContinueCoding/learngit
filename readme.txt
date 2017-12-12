@@ -21,4 +21,7 @@ Changed something in dev branch,but now there is a bug need to fix!Now the bug i
 
 A in [new]
 
+B in [dev]
+
 C in [new]
+
