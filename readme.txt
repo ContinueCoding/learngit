@@ -18,3 +18,5 @@ Changed something in dev branch,but now there is a bug need to fix!Now the bug i
 在dev分支添加第二行文案
 
 **********git学习 新建分支、合并分支、解决冲突、将本地分支push到远程仓库 结束**********
+
+A in [new]
