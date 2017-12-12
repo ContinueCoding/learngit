@@ -9,3 +9,4 @@ Test merge with no fast forward mode!
 Changed something in dev branch,but now there is a bug need to fix!Now the bug is fixed!
 
 ********restart learn git********
+重新学习git开始，add & commit & push命令学习
