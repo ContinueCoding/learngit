@@ -14,3 +14,6 @@ Changed something in dev branch,but now there is a bug need to fix!Now the bug i
 在dev分支上添加本行文案
 
 回到master分支，添加本行。
+
+在dev分支添加第二行文案
+
